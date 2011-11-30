@@ -32,9 +32,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52875817"
-     inkscape:cx="765"
-     inkscape:cy="495"
+     inkscape:zoom="0.76982446"
+     inkscape:cx="768.43547"
+     inkscape:cy="494.80072"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -43,8 +43,8 @@
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="718"
+     inkscape:window-width="1400"
+     inkscape:window-height="980"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -158,16 +158,19 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6376"
-       style="font-size:17.04355181px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:17.0435524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        transform="matrix(1,0,0,1.115385,314.96875,215.53766)"><flowRegion
          id="flowRegion6378"><rect
            id="rect6380"
            width="224.99893"
-           height="214.99525"
+           height="295.68488"
            x="495.03232"
            y="414.22433"
-           style="font-size:17.04355181px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
-         id="flowPara3077">PSAS is one of the premier university rocketry groups in the Northwest, building ultra-low-cost, open source rockets that feature perhaps the most sophisticated amateur rocket avionics systems out there today.</flowPara></flowRoot>    <flowRoot
+           style="font-size:17.0435524px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'" /></flowRegion><flowPara
+         id="flowPara3077"
+         style="font-size:20.831007px;text-align:start;text-anchor:start">PSAS is a student aerospace  project that is building ultra-low-cost, open source rockets. We build and fly some of the most advanced amateur  avionics systems on the planet.</flowPara><flowPara
+         id="flowPara3032"
+         style="font-size:20.831007px;text-align:start;text-anchor:start" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6386"
        style="font-size:8px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Serif;-inkscape-font-specification:Liberation Serif Italic"><flowRegion
