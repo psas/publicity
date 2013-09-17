@@ -304,7 +304,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8570048"
+     inkscape:zoom="0.92850242"
      inkscape:cx="202.5"
      inkscape:cy="258.75"
      inkscape:document-units="in"
@@ -313,13 +313,15 @@
      units="in"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1148"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     guidecolor="#ff0034"
+     guideopacity="0.49803922">
     <inkscape:grid
        type="xygrid"
        id="grid2816"
@@ -329,51 +331,39 @@
        snapvisiblegridlinesonly="true"
        units="in"
        spacingx="0.125in"
-       spacingy="0.125in" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="-11.25,146.25"
-       id="guide2818" />
+       spacingy="0.125in"
+       color="#0000ff"
+       opacity="0.04705882"
+       empcolor="#0000ff"
+       empopacity="0.09803922" />
     <sodipodi:guide
        orientation="0,1"
-       position="56.25,191.25"
+       position="393.75,225"
        id="guide2820" />
     <sodipodi:guide
        orientation="0,1"
-       position="78.75,11.25"
+       position="427.5,45"
        id="guide2822" />
     <sodipodi:guide
        orientation="1,0"
-       position="326.25,146.25"
-       id="guide2824" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="11.25,168.75"
+       position="45,540"
        id="guide2826" />
     <sodipodi:guide
        orientation="0,1"
-       position="67.5,168.75"
+       position="382.5,472.5"
        id="guide2828" />
     <sodipodi:guide
-       orientation="1,0"
-       position="303.75,-22.5"
-       id="guide2830" />
-    <sodipodi:guide
        orientation="0,1"
-       position="78.75,-11.25"
+       position="405,292.5"
        id="guide2832" />
     <sodipodi:guide
        orientation="1,0"
-       position="371.25,180"
+       position="360,551.25"
        id="guide5394" />
     <sodipodi:guide
        orientation="1,0"
        position="663.75,135"
        id="guide5396" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="294.56522,142.3913"
-       id="guide3746" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -466,30 +456,30 @@
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="-984.94641"
-       y="309.53345"
+       y="300.68604"
        id="text4384-1-5"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3770"
          x="-984.94641"
-         y="309.53345"
+         y="300.68604"
          style="letter-spacing:1.25319684">info@psas.pdx.edu</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="-984.94641"
-       y="332.03345"
+       y="323.18604"
        id="text4384-1-5-7"
        sodipodi:linespacing="100%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan6091"
          x="-984.94641"
-         y="332.03345"
+         y="323.18604"
          style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:2.55409837;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'">@pdxaerospace</tspan></text>
     <g
-       transform="matrix(1,0,0,-1,-372.31554,1879.1532)"
+       transform="matrix(1,0,0,-1,-382.31554,1879.1532)"
        id="g5886-3-5"
        style="stroke-width:0.72000003;stroke-miterlimit:4;stroke-dasharray:none">
       <path
@@ -579,81 +569,72 @@
    dx="0 1.1528914 3.0743783 1.9983456"
    id="tspan6201-9">PSAS</tspan></textPath></text>
     </g>
+    <rect
+       style="fill:#6a7f10;fill-opacity:1;stroke:none"
+       id="rect4514"
+       width="337.5"
+       height="202.5"
+       x="33.75"
+       y="568.60999" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:150%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="337.5"
+       y="628.85999"
+       id="text4384"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan3541"
+         x="337.5"
+         y="628.85999">psas.pdx.edu</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3543"
+         x="337.5"
+         y="646.85999">github.com/psas</tspan><tspan
+         sodipodi:role="line"
+         id="tspan3545"
+         x="337.5"
+         y="664.85999">info@psas.pdx.edu</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold,'"
+       x="337.20786"
+       y="602.35999"
+       id="text4388"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4390"
+         x="337.5"
+         y="602.35999"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0.29211962;writing-mode:lr-tb;text-anchor:end;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold,'">Portland State Aerospace Society</tspan></text>
     <g
-       id="g3718"
-       transform="translate(45,-292.5)">
-      <rect
-         y="861.10999"
-         x="-11.25"
-         height="202.5"
-         width="337.5"
-         id="rect4514"
-         style="fill:#6a7f10;fill-opacity:1;stroke:none" />
-      <g
-         id="g3705">
-        <text
-           xml:space="preserve"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-           x="225.43478"
-           y="917.14233"
-           id="text4384"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4386"
-             x="225.43478"
-             y="917.14233">psas.pdx.edu</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold,'"
-           x="36.847824"
-           y="894.20758"
-           id="text4388"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4390"
-             x="36.847824"
-             y="894.20758"
-             style="letter-spacing:0.29211962">Portland State Aerospace Society</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
-           x="196.38043"
-           y="934.99011"
-           id="text4384-6"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4417"
-             x="196.38043"
-             y="934.99011">info@psas.pdx.edu</tspan></text>
-        <g
-           id="g3832">
-          <path
-             sodipodi:nodetypes="cccccccccc"
-             d="m 71.974978,1021.5962 0.689199,-3.0087 c -9.283909,-2.0452 -16.994687,-2.8005 -26.535156,-2.8086 l -0.91695,2.9045 c 8.906556,-0.099 17.98035,0.8889 26.762907,2.9128 z m -48.365998,-3.5228 0.495923,2.7446 c 6.439898,-1.3047 12.50843,-1.9124 18.513198,-2.2212 l 1.284006,-2.7893 c -8.179564,0.3528 -12.250289,0.8055 -20.293127,2.2659 z"
-             style="fill:#ffffff;fill-opacity:1;stroke:none"
-             id="path3816"
-             inkscape:connector-curvature="0" />
-          <path
-             sodipodi:nodetypes="cccccccccccccccccccccc"
-             id="path3611-4-6"
-             style="fill:#ffffff;fill-opacity:0.6680162;stroke:none"
-             d="m 56.25,984.86 1.02562,0.37986 m -7.996255,20.27484 -6.970205,22.7632 -4.14046,-0.038 10.531268,-22.8956 m 0.04343,-0.5857 -0.646297,-0.8931 0.66818,-1.7503 1.10866,-0.3197 m -0.254055,3.2326 1.135005,-0.3715 0.66818,-1.7503 -0.6632,-0.8471 m 6.45908,-16.91927 1.78431,-5.96609 -2.67024,5.70237 -7.79544,20.41979 0.88593,0.2637 7.79544,-20.41977 z m -6.90204,16.78737 -1.11364,2.9171"
-             inkscape:connector-curvature="0" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text3808"
-             y="1014.3926"
-             x="23.369568"
-             style="font-size:14.13211155px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold, Bold'"
-             xml:space="preserve"><tspan
-               dx="0 -0.76804954 0 -0.30721977"
-               style="letter-spacing:3.18740511"
-               y="1014.3926"
-               x="23.369568"
-               id="tspan3810"
-               sodipodi:role="line">PSAS</tspan></text>
-        </g>
-      </g>
+       id="g3832"
+       transform="matrix(1.3424124,0,0,1.3424124,36.99797,-644.59512)">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         d="m 71.974978,1021.5962 0.689199,-3.0087 c -9.283909,-2.0452 -16.994687,-2.8005 -26.535156,-2.8086 l -0.91695,2.9045 c 8.906556,-0.099 17.98035,0.8889 26.762907,2.9128 z m -48.365998,-3.5228 0.495923,2.7446 c 6.439898,-1.3047 12.50843,-1.9124 18.513198,-2.2212 l 1.284006,-2.7893 c -8.179564,0.3528 -12.250289,0.8055 -20.293127,2.2659 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="path3816"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccc"
+         id="path3611-4-6"
+         style="fill:#ffffff;fill-opacity:0.6680162;stroke:none"
+         d="m 56.25,984.86 1.02562,0.37986 m -7.996255,20.27484 -6.970205,22.7632 -4.14046,-0.038 10.531268,-22.8956 m 0.04343,-0.5857 -0.646297,-0.8931 0.66818,-1.7503 1.10866,-0.3197 m -0.254055,3.2326 1.135005,-0.3715 0.66818,-1.7503 -0.6632,-0.8471 m 6.45908,-16.91927 1.78431,-5.96609 -2.67024,5.70237 -7.79544,20.41979 0.88593,0.2637 7.79544,-20.41977 z m -6.90204,16.78737 -1.11364,2.9171"
+         inkscape:connector-curvature="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3808"
+         y="1014.3926"
+         x="23.369568"
+         style="font-size:14.13211155px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold, Bold'"
+         xml:space="preserve"><tspan
+           dx="0 -0.76804954 0 -0.30721977"
+           style="letter-spacing:3.18740511"
+           y="1014.3926"
+           x="23.369568"
+           id="tspan3810"
+           sodipodi:role="line">PSAS</tspan></text>
     </g>
     <g
        id="g3877"
@@ -790,5 +771,18 @@
          d="m -11.25,0 -22.5,0"
          style="fill:none;stroke:#ff00ff;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       x="-984.85999"
+       y="345.5"
+       id="text4384-1-5-7-1"
+       sodipodi:linespacing="100%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3492"
+         x="-984.85999"
+         y="345.5"
+         style="letter-spacing:1.80778611">github.com/psas</tspan></text>
   </g>
 </svg>
