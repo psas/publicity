@@ -22,5 +22,4 @@ You can upload the pdf either as part of the order checkout, or afterward using 
 
 ## Order History
 
- - 2013-09-17: 1000 ordered
  - 2010-11-19:  500 ordered

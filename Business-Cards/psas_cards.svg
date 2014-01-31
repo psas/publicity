@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="psas_cards.svg">
+   sodipodi:docname="psas_cards.svg"
+   inkscape:export-filename="preview.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -304,7 +307,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92850242"
+     inkscape:zoom="1.8570048"
      inkscape:cx="202.5"
      inkscape:cy="258.75"
      inkscape:document-units="in"
@@ -373,7 +376,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -396,25 +399,6 @@
          height="513.00995"
          width="513.00995"
          xlink:href="file:///home/natronics/Dropbox/PSAS/psas-logo.jpg" />
-    </g>
-    <g
-       inkscape:transform-center-y="-21.159432"
-       inkscape:transform-center-x="34.109663"
-       transform="matrix(-0.03788018,0.09922553,-0.07533708,-0.02242597,78.307253,963.1579)"
-       id="g3773"
-       style="fill:#ffffff;fill-opacity:1;stroke:#1d1d1d;stroke-width:7.89121675;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    <g
-       inkscape:label="Layer 1"
-       id="layer1-7"
-       transform="matrix(0,-0.17227171,0.17227171,0,469.6862,1030.6232)"
-       style="display:none">
-      <image
-         y="389.11456"
-         x="-103.36037"
-         id="image2886-3"
-         height="617.01044"
-         width="987.21667"
-         xlink:href="file:///home/natronics/Desktop/Screenshot-3.png" />
     </g>
     <flowRoot
        xml:space="preserve"
@@ -464,7 +448,9 @@
          id="tspan3770"
          x="-984.94641"
          y="300.68604"
-         style="letter-spacing:1.25319684">info@psas.pdx.edu</tspan></text>
+         style="letter-spacing:1.34822643">info<tspan
+   style="font-size:12px;letter-spacing:1.29999995px"
+   id="tspan3190">@</tspan>psas.pdx.edu</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
@@ -477,7 +463,8 @@
          id="tspan6091"
          x="-984.94641"
          y="323.18604"
-         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:2.55409837;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'">@pdxaerospace</tspan></text>
+         style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:2.55409837;writing-mode:lr-tb;text-anchor:start;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+         dy="2.0899999 -2.0899999">@pdxaerospace</tspan></text>
     <g
        transform="matrix(1,0,0,-1,-382.31554,1879.1532)"
        id="g5886-3-5"
@@ -530,14 +517,6 @@
          id="path2969-1-4"
          sodipodi:nodetypes="cc" />
     </g>
-    <image
-       y="68"
-       x="-986.86023"
-       id="image2991"
-       height="139.00002"
-       width="139.00002"
-       xlink:href="file:///home/natronics/Dropbox/PSAS/psas_qr_big.png"
-       transform="matrix(0,-1,1,0,0,0)" />
     <path
        sodipodi:nodetypes="css"
        id="path2918"
@@ -578,23 +557,27 @@
        y="568.60999" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:150%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:160.00000238%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
        x="337.5"
-       y="628.85999"
+       y="636.10999"
        id="text4384"
-       sodipodi:linespacing="150%"><tspan
+       sodipodi:linespacing="160%"><tspan
          sodipodi:role="line"
          id="tspan3541"
          x="337.5"
-         y="628.85999">psas.pdx.edu</tspan><tspan
+         y="636.10999">psas.pdx.edu</tspan><tspan
          sodipodi:role="line"
          id="tspan3543"
          x="337.5"
-         y="646.85999">github.com/psas</tspan><tspan
+         y="655.31">github.com/psas</tspan><tspan
          sodipodi:role="line"
          id="tspan3545"
          x="337.5"
-         y="664.85999">info@psas.pdx.edu</tspan></text>
+         y="674.51001"
+         dy="0 0 0 0 0 -0.95999998">info<tspan
+   style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:160.00000238%;writing-mode:lr-tb;text-anchor:end;font-family:Futura LT Book;-inkscape-font-specification:'Futura LT Book,'"
+   id="tspan3186"
+   dy="0.95999998">@</tspan>psas.pdx.edu</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Futura LT ExtraBold;-inkscape-font-specification:'Futura LT ExtraBold,'"
@@ -784,5 +767,73 @@
          x="-984.85999"
          y="345.5"
          style="letter-spacing:1.80778611">github.com/psas</tspan></text>
+    <image
+       y="67.5"
+       x="-984.85999"
+       id="image3183"
+       xlink:href="data:image/png;base64,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
+
+"
+       height="134.99998"
+       width="134.99998"
+       transform="matrix(0,-1,1,0,0,0)" />
   </g>
 </svg>
