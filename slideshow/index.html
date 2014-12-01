@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+ <script src="http://nicinabox.com/superslides/dist/jquery.superslides.js"></script>
+</head>
+<body>
+  <div id="slides">
+    <div class="slides-container">
+    </div>
+  </div>
+
+  <script>
+    $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?",{ id: "126162120@N08", tags: "slideshow", format: "json" },
+      function(data) {
+        $.each(data.items, function(i,item) {
+            console.log(item.media)
+            $("<img/>").attr({src : item.media.m.replace('_m.','_b.')}).appendTo(".slides-container");
+        });
+        $('#slides').superslides({play: 6500, slide_easing: 'easeInOutCubic', slide_speed: 6500})
+    });
+  </script>
+
+</body>
+</html>
