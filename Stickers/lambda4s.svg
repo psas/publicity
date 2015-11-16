@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="144pt"
-   height="1008pt"
-   viewBox="0 0 180 1260"
+   width="2in"
+   height="4in"
+   viewBox="0 0 180 360.00001"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -119,30 +119,32 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4083333"
-     inkscape:cx="-1.349481"
-     inkscape:cy="179.58478"
+     inkscape:cx="90"
+     inkscape:cy="190.79585"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
-     units="pt"
+     units="in"
      borderlayer="true"
      inkscape:showpageshadow="false"
      guidecolor="#ff0096"
      guideopacity="0.23529412"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
      inkscape:window-height="1126"
      inkscape:window-x="2560"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-text-baseline="true">
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
        units="in"
-       spacingx="11.25"
-       spacingy="11.25"
+       spacingx="5.625"
+       spacingy="5.6250002"
        empspacing="4"
        color="#f43fff"
        opacity="0.0627451"
@@ -154,7 +156,7 @@
        orientation="899.99997,0"
        id="guide3342" />
     <sodipodi:guide
-       position="191.83391,179.37716"
+       position="180,180.00001"
        orientation="0,1"
        id="guide4352" />
   </sodipodi:namedview>
@@ -174,7 +176,7 @@
      inkscape:label="image"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,207.6378)"
+     transform="translate(0,-692.36219)"
      sodipodi:insensitive="true"
      style="display:none">
     <image
@@ -191,7 +193,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="sticker"
-     transform="translate(0,900)">
+     transform="translate(0,1.4305115e-5)">
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff00ff;stroke-width:0.09;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 90,-1.7105115e-5 0,0 L 73.125,22.499983 l 0,78.750007 -28.125,22.5 0,118.12499 22.5,16.875 0,50.62501 -11.25,11.25 0,39.375 67.5,0 0,-39.37501 -11.25,-11.24999 0,-50.625 22.5,-16.87501 0,-118.12499 -28.125,-22.49999 0,-78.750018 L 90,-1.7105115e-5 l 0,0"
+       id="path4203"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="fill:#191515;fill-opacity:1;fill-rule:evenodd;stroke:#393939;stroke-width:0.44999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 95.608543,24.165886 0,-0.570935 c 0,0 -4.552741,-11.00171 -4.930795,-11.730103 0,0 -0.210336,-0.494229 -0.677748,-0.498067 -0.467412,-0.0038 -0.609055,0.192474 -0.778547,0.519032 -0.378054,0.728393 -4.930795,11.730103 -4.930795,11.730103 l 0,0.570935 z"
@@ -463,24 +471,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.76500034px;line-height:125%;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese, Normal';text-align:center;letter-spacing:-1.80999994px;word-spacing:0px;writing-mode:tb-rl;text-anchor:middle;fill:#323232;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="119.92286"
-       y="181.52785"
+       x="118.125"
+       y="180.90498"
        id="text4348"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4350"
-         x="180.62285"
-         y="119.92286">宇宙科学研究所</tspan></text>
+         x="178.82498"
+         y="119.3">宇宙科学研究所</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.76500034px;line-height:125%;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese, Normal';text-align:center;letter-spacing:-4.74000072px;word-spacing:0px;writing-mode:tb-rl;text-anchor:middle;fill:#b71e10;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="59.003819"
-       y="182.99284"
+       x="61.875"
+       y="182.37"
        id="text4348-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4372"
-         x="180.62283"
-         y="59.003819">ラムダ ロケット</tspan></text>
+         id="tspan4220"
+         x="180.73399"
+         y="61.140984">ラムダ型ロケット</tspan></text>
   </g>
 </svg>
