@@ -14,8 +14,8 @@
    height="990"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="meeting-invite.svg">
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="meeting-invite.pdf">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -184,9 +184,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53636364"
-     inkscape:cx="382.5"
-     inkscape:cy="495"
+     inkscape:zoom="1.5132085"
+     inkscape:cx="383.84025"
+     inkscape:cy="443.63841"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -195,10 +195,10 @@
      inkscape:showpageshadow="false"
      guidecolor="#ff007e"
      guideopacity="0.4"
-     inkscape:window-width="1280"
-     inkscape:window-height="749"
+     inkscape:window-width="1920"
+     inkscape:window-height="1037"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      showguides="true">
     <inkscape:grid
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -257,68 +257,76 @@
        id="text3016"
        sodipodi:linespacing="130%"><tspan
          sodipodi:role="line"
-         id="tspan7032">JOIN OUR</tspan><tspan
+         id="tspan7032"
+         style="-inkscape-font-specification:Bitstream Vera Sans;font-family:Bitstream Vera Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">JOIN OUR</tspan><tspan
          sodipodi:role="line"
-         id="tspan7034">SPACE PROGRAM</tspan></text>
+         id="tspan7034"
+         style="-inkscape-font-specification:Bitstream Vera Sans;font-family:Bitstream Vera Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">SPACE PROGRAM</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:Helvetica CE 55 Roman"
        x="67.500023"
-       y="663.362"
+       y="641.362"
        id="text5268"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5272"
          x="67.500023"
-         y="663.362"
-         style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.85340762;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'">PORTLAND  STATE  AEROSPACE  SOCIETY</tspan></text>
+         y="641.362"
+         style="font-size:26px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0.85340762;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">PORTLAND  STATE  AEROSPACE  SOCIETY</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:35px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 35 Thin;-inkscape-font-specification:'Helvetica CE 35 Thin, Thin'"
-       x="697.5"
-       y="714.862"
+       x="693.5"
+       y="668.862"
        id="text5268-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5318"
-         x="697.5"
-         y="714.862">psas.pdx.edu</tspan></text>
+         x="693.5"
+         y="668.862"
+         style="font-size:26px;font-weight:bold;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">psas.pdx.edu</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE;-inkscape-font-specification:Helvetica CE"
-       x="425.5"
-       y="800.362"
+       x="473.5"
+       y="798.362"
        id="text3044-1-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4760"
-         x="425.5"
-         y="800.362">th</tspan></text>
+         x="473.5"
+         y="798.362"
+         style="font-size:26px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">th</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:43px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE;-inkscape-font-specification:Helvetica CE"
-       x="67.5"
-       y="759.862"
+       x="73.5"
+       y="727.862"
        id="text3044-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6988"
-         x="67.5"
-         y="759.862">Intro Meeting!</tspan><tspan
-         sodipodi:role="line"
-         id="tspan6990"
-         x="67.5"
-         y="813.612">Tuesday October 7</tspan><tspan
+         x="73.5"
+         y="727.862"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Orientation Meeting!</tspan><tspan
          sodipodi:role="line"
          id="tspan6992"
-         x="67.5"
-         y="867.362">6:00 pm</tspan><tspan
+         x="73.5"
+         y="781.612"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Tuesday January12</tspan><tspan
+         sodipodi:role="line"
+         x="73.5"
+         y="835.362"
+         id="tspan3285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">7:00 pm</tspan><tspan
          sodipodi:role="line"
          id="tspan6994"
-         x="67.5"
-         y="921.112">FAB 86-01</tspan></text>
+         x="73.5"
+         y="889.112"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">FAB 86-01</tspan></text>
     <g
-       transform="matrix(0.20695215,0,0,0.20695215,619.38627,776.71895)"
+       transform="matrix(0.41394787,0,0,0.41600261,531.2703,445.25031)"
        id="g4959">
       <path
          inkscape:connector-curvature="0"
@@ -373,7 +381,7 @@
          style="fill:#ffffff;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(0,-0.14583334,0.14583334,0,622.7809,656.69534)"
+       transform="matrix(0,-0.14583334,0.14583334,0,622.7809,640.69534)"
        id="g5944">
       <path
          inkscape:connector-curvature="0"
@@ -1761,20 +1769,51 @@
         </g>
       </g>
     </g>
-    <text
+    <flowRoot
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE 55 Roman;-inkscape-font-specification:'Helvetica CE 55 Roman,'"
-       x="67.5"
-       y="970.362"
-       id="text7036"
+       id="flowRoot3287"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
+       transform="translate(0,62.362)"><flowRegion
+         id="flowRegion3289"><rect
+           id="rect3291"
+           width="628.30505"
+           height="67.118645"
+           x="68.983047"
+           y="855.7627" /></flowRegion><flowPara
+         id="flowPara3293"
+         style="font-size:18px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3295"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       transform="translate(0,62.362)"><flowRegion
+         id="flowRegion3297"><rect
+           id="rect3299"
+           width="629.2373"
+           height="45.677967"
+           x="67.118645"
+           y="877.20337"
+           style="-inkscape-font-specification:Bitstream Vera Sans;font-family:Bitstream Vera Sans;font-size:18px" /></flowRegion><flowPara
+         id="flowPara3301" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:arial;-inkscape-font-specification:arial"
+       x="73.5"
+       y="935.862"
+       id="text3303"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan7048"
-         x="67.5"
-         y="970.362">Come find out about Portland State's rocket club. We launch high powered rockets filled</tspan><tspan
+         id="tspan3305"
+         x="73.5"
+         y="935.862"
+         style="font-size:18px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Help design, build, and fly Linux-based rockets with everything from </tspan><tspan
          sodipodi:role="line"
-         id="tspan7050"
-         x="67.5"
-         y="985.362">with computers and sensors thousands of meters in altitude.</tspan></text>
+         x="73.5"
+         y="958.362"
+         style="font-size:18px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3313">GPS receivers to inertial measurement units to long distance radio </tspan><tspan
+         sodipodi:role="line"
+         x="73.5"
+         y="980.862"
+         style="font-size:18px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3311">systems. It's open source, interdisciplinary rocket science at PSU!</tspan></text>
   </g>
 </svg>
