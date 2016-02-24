@@ -4,7 +4,7 @@
 
 Current card that we hand out during presentations, etc.
 
-Has out [website](http://psas.pdx.edu), [github](https://github.com/psas), and info email address link.
+Has out [website](http://psas.pdx.edu), [github](https://github.com/psas), Twitter account, and info email address link.
 
 
 ## Ordering Instructions
@@ -22,4 +22,7 @@ You can upload the pdf either as part of the order checkout, or afterward using 
 
 ## Order History
 
- - 2010-11-19:  500 ordered
+ - 2010-11-19: 500 ordered
+ - 2013-??-??: 500 ordered
+ - 2016-02-23: 1k ordered of new "2016" design. $40 for 1k! And no shipping, because Beaverton.
+ 
