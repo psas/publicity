@@ -308,7 +308,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.26025458"
-     inkscape:cx="3240"
+     inkscape:cx="3247.6848"
      inkscape:cy="1080"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -461,26 +461,26 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:208.75px;line-height:125%;font-family:'Futura LT Medium';-inkscape-font-specification:'Futura LT Medium, Normal';text-align:start;letter-spacing:25px;word-spacing:70px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1572.896"
-       y="51.582775"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:350px;line-height:125%;font-family:'Futura LT Medium';-inkscape-font-specification:'Futura LT Medium, Normal';text-align:start;letter-spacing:80px;word-spacing:198.4414978px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1864.7998"
+       y="-123.13779"
        id="text4507"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4511"
-         x="1572.896"
-         y="51.582775">PORTLAND STATE AEROSPACE SOCIETY</tspan></text>
+         id="tspan3491"
+         x="1864.7998"
+         y="-123.13779">PORTLAND STATE</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.5px;line-height:125%;font-family:'Futura LT Medium';-inkscape-font-specification:'Futura LT Medium, Normal';text-align:end;letter-spacing:18px;word-spacing:0px;writing-mode:lr;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="6192"
-       y="242.3622"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:117.5px;line-height:125%;font-family:'Futura LT Medium';-inkscape-font-specification:'Futura LT Medium, Normal';text-align:end;letter-spacing:18px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2741.7864"
+       y="516.87219"
        id="text4507-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4299"
-         x="6210"
-         y="242.3622">psas.pdx.edu</tspan></text>
+         x="2759.7864"
+         y="516.87219">psas.pdx.edu</tspan></text>
     <g
        transform="matrix(3.9886258,0,0,-3.9886258,5129.9998,782.36688)"
        inkscape:label="ink_ext_XXXXXX"
@@ -835,5 +835,16 @@
            d="m 463.645,451.504 0,-338.098" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:350px;line-height:125%;font-family:'Futura LT Medium';-inkscape-font-specification:'Futura LT Medium, Normal';text-align:start;letter-spacing:28.37998962px;word-spacing:107.49814606px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1892.7998"
+       y="325.46222"
+       id="text4507-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3487"
+         x="1892.7998"
+         y="325.46222">AEROSPACE SOCIETY</tspan></text>
   </g>
 </svg>
