@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="meeting-invite.pdf">
+   sodipodi:docname="meeting-invite.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -185,8 +185,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5132085"
-     inkscape:cx="383.84025"
-     inkscape:cy="443.63841"
+     inkscape:cx="385.16194"
+     inkscape:cy="655.1096"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -240,7 +240,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -289,14 +289,14 @@
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Helvetica CE;-inkscape-font-specification:Helvetica CE"
-       x="473.5"
-       y="798.362"
+       x="403.5"
+       y="764.362"
        id="text3044-1-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4760"
-         x="473.5"
-         y="798.362"
+         x="403.5"
+         y="764.362"
          style="font-size:26px;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">th</tspan></text>
     <text
        xml:space="preserve"
@@ -311,15 +311,15 @@
          y="727.862"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Orientation Meeting!</tspan><tspan
          sodipodi:role="line"
-         id="tspan6992"
          x="73.5"
          y="781.612"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Tuesday January12</tspan><tspan
+         id="tspan3285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">Tuesday April 5</tspan><tspan
          sodipodi:role="line"
          x="73.5"
          y="835.362"
-         id="tspan3285"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans">7:00 pm</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         id="tspan3296">7:00 pm</tspan><tspan
          sodipodi:role="line"
          id="tspan6994"
          x="73.5"
