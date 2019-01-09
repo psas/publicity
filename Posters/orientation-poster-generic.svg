@@ -184,9 +184,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64429581"
-     inkscape:cx="-270.2288"
-     inkscape:cy="665.52594"
+     inkscape:zoom="1.0973163"
+     inkscape:cx="702.5676"
+     inkscape:cy="420.10868"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -285,14 +285,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="292.39999"
+       x="314.39999"
        y="851.31946"
        id="text3044-1-4"><tspan
          sodipodi:role="line"
          id="tspan4760"
-         x="292.39999"
+         x="314.39999"
          y="851.31946"
-         style="font-size:27.73333359px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672">rd</tspan></text>
+         style="font-size:27.73333359px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672">th</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
@@ -308,7 +308,7 @@
          x="78.400002"
          y="869.71942"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.86666489px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672"
-         id="tspan3296">Tue Oct 3   @ 7:00 pm</tspan><tspan
+         id="tspan3296">Tue Jan 15   @ 7:00 pm</tspan><tspan
          sodipodi:role="line"
          id="tspan6994"
          x="78.400002"
@@ -1787,23 +1787,23 @@
          style="font-size:19.20000076px;line-height:1.25;stroke-width:1.06666672"> </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.80000019px;line-height:0%;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="78.400002"
+       x="410.09222"
        y="998.25281"
        id="text3303"><tspan
          sodipodi:role="line"
          id="tspan3305"
-         x="78.400002"
+         x="410.09222"
          y="998.25281"
-         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672">Help design, build, and fly Linux-based rockets with everything from </tspan><tspan
+         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672">Help design, build, and fly giant rockets and tiny satellites. GPS!</tspan><tspan
          sodipodi:role="line"
-         x="78.400002"
+         x="413.1485"
          y="1022.2528"
-         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672"
-         id="tspan3313">GPS receivers to inertial measurement units to long distance radio </tspan><tspan
+         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+         id="tspan891">Radios! Electronics! Physics! Math! Management! Marketing! We </tspan><tspan
          sodipodi:role="line"
-         x="78.400002"
+         x="410.09225"
          y="1046.2528"
-         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672"
-         id="tspan3311">systems. It's open source, interdisciplinary rocket science at PSU!</tspan></text>
+         style="font-size:19.20000076px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+         id="tspan3311">Have it all. It's open source, interdisciplinary rocket science at PSU!</tspan></text>
   </g>
 </svg>
