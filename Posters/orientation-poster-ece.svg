@@ -14,7 +14,7 @@
    height="1056"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="orientation-poster-ece.svg">
   <defs
      id="defs4">
@@ -180,8 +180,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0500263"
-     inkscape:cx="331.86426"
-     inkscape:cy="664.03751"
+     inkscape:cx="159.9638"
+     inkscape:cy="509.75566"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -287,38 +287,6 @@
          x="72.000023"
          y="731.31946"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.73333359px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;letter-spacing:0.91030145;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:1.06666672">PORTLAND  STATE  AEROSPACE  SOCIETY</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="398.17709"
-       y="818.38611"
-       id="text3044-1"><tspan
-         sodipodi:role="line"
-         id="tspan6988"
-         x="398.17709"
-         y="818.38611"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672">Orientation Meeting!</tspan><tspan
-         sodipodi:role="line"
-         x="398.17709"
-         y="871.71942"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
-         id="tspan3296">Tue Jan 15   @ 7:00 pm</tspan><tspan
-         sodipodi:role="line"
-         id="tspan6994"
-         x="398.17709"
-         y="925.0528"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672">FAB 86-01 - Pizza, too!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
-       x="373.06668"
-       y="855.31946"
-       id="text3044-1-4"><tspan
-         sodipodi:role="line"
-         id="tspan4760"
-         x="373.06668"
-         y="855.31946"
-         style="font-weight:bold;font-size:27.73333359px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672">th</tspan></text>
     <g
        transform="matrix(0.41394787,0,0,0.41600261,570.76514,-155.03049)"
        id="g4959">
@@ -443,5 +411,41 @@
            height="24"
            x="696"
            y="768" /></flowRegion><flowPara
-         id="flowPara410" /></flowRoot>  </g>
+         id="flowPara410" /></flowRoot>    <g
+       transform="translate(14.000004,1.999996)"
+       id="g887">
+      <text
+         id="text3044-1"
+         y="818.38611"
+         x="398.17709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+           y="818.38611"
+           x="398.17709"
+           id="tspan6988"
+           sodipodi:role="line">Orientation Meeting!</tspan><tspan
+           id="tspan3296"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+           y="871.71942"
+           x="398.17709"
+           sodipodi:role="line">Tue Oct 8   @ 7:00 pm</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+           y="925.0528"
+           x="398.17709"
+           id="tspan6994"
+           sodipodi:role="line">FAB 86-01 - Pizza, too!</tspan></text>
+      <text
+         id="text3044-1-4"
+         y="855.31946"
+         x="363.06668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:'Helvetica CE';-inkscape-font-specification:'Helvetica CE';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;font-size:27.73333359px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';stroke-width:1.06666672"
+           y="855.31946"
+           x="363.06668"
+           id="tspan4760"
+           sodipodi:role="line">th</tspan></text>
+    </g>
+  </g>
 </svg>
